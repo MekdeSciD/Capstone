@@ -14,7 +14,7 @@ Please read below for the details of the contents found in this folder. The cont
 - [Results](#results)
 
 
-# Problem statement: 
+# Problem statement 
 
 Is it possible to accurately classify a verse in its respective genre? Therefore, what is the optimal machine learning method to identify a text with similar content from a given corpus? 
 
@@ -49,11 +49,11 @@ The notebook below combines different features of the original data frame for th
 The feature engineered data frames are exported into CSV and can be found in the folder [my_datasets](my_datasets/)
 
 - [American Standard Version](my_datasets/asv.genre_text.csv)
-- [Bible in Basic English] (my_datasets/bbe.genre_text.csv)
+- [Bible in Basic English](my_datasets/bbe.genre_text.csv)
 - [King James Version](my_datasets/kjv.genre_text.csv)
 - [Webster’s Bible](my_datasets/wbt.genre_text.csv)
 - [World English Bible](my_datasets/web.genre_text.csv)
-- [Young’s Literal Translation] (my_datasets/ylt.genre_text.csv)
+- [Young’s Literal Translation](my_datasets/ylt.genre_text.csv)
 
 
 # In-depth Analysis 
@@ -66,11 +66,11 @@ I then used Doc2Vec to vectorizer in order to generate vectors for the verses. I
 
 
 - [American Standard Version](/3.1_modeling_asv_text.ipynb)
-- [Bible in Basic English] (/3.2_modeling_bbe_text.ipynb)
+- [Bible in Basic English](/3.2_modeling_bbe_text.ipynb)
 - [King James Version](/3.0_modeling_kjv_text.ipynb)
 - [Webster’s Bible](/3.3_modeling_wbt_text.ipynb)
 - [World English Bible](/3.4_modeling_web_text.ipynb)
-- [Young’s Literal Translation] (/3.5_modeling_ylt_text.ipynb)
+- [Young’s Literal Translation](/3.5_modeling_ylt_text.ipynb)
 
 Here is a markdown table to use as a reference for the genre keys. 
 
@@ -91,11 +91,11 @@ Here is a markdown table to use as a reference for the genre keys.
 Metrics such as accuracy score and f1 score were used In order to evaluate the models. The scores for each model are also found in the notebooks listed below. 
 
 - [American Standard Version](/3.1_modeling_asv_text.ipynb)
-- [Bible in Basic English] (/3.2_modeling_bbe_text.ipynb)
+- [Bible in Basic English](/3.2_modeling_bbe_text.ipynb)
 - [King James Version](/3.0_modeling_kjv_text.ipynb)
 - [Webster’s Bible](/3.3_modeling_wbt_text.ipynb)
 - [World English Bible](/3.4_modeling_web_text.ipynb)
-- [Young’s Literal Translation] (/3.5_modeling_ylt_text.ipynb)
+- [Young’s Literal Translation](/3.5_modeling_ylt_text.ipynb)
 
 
 
