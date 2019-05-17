@@ -48,12 +48,12 @@ The notebook below combines different features of the original data frame for th
 
 The feature engineered data frames are exported into CSV and can be found in the folder [my_datasets](my_datasets/)
 
-- [American Standard Version](/my_datasets/./asv.genre_text.csv)
-- [Bible in Basic English](/my_datasets/./bbe.genre_text.csv)
-- [King James Version](/my_datasets/./kjv.genre_text.csv)
-- [Webster’s Bible](/my_datasets/./wbt.genre_text.csv)
-- [World English Bible](/my_datasets/./web.genre_text.csv)
-- [Young’s Literal Translation](/my_datasets/./ylt.genre_text.csv)
+- [American Standard Version](./my_datasets/asv.genre_text.csv)
+- [Bible in Basic English](./my_datasets/bbe.genre_text.csv)
+- [King James Version](./my_datasets/kjv.genre_text.csv)
+- [Webster’s Bible](./my_datasets/wbt.genre_text.csv)
+- [World English Bible](./my_datasets/web.genre_text.csv)
+- [Young’s Literal Translation](./my_datasets/ylt.genre_text.csv)
 
 
 # In-depth Analysis 
