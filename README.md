@@ -97,7 +97,7 @@ Metrics such as accuracy score and f1 score were used In order to evaluate the m
 - [World English Bible](/3.4_modeling_web_text.ipynb)
 - [Young’s Literal Translation](/3.5_modeling_ylt_text.ipynb)
 
-
+Included is the [powerpoint](/Capstone_PPT.pdf) which includes my most recent findings. 
 
 
 # Moving forward 
