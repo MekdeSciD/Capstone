@@ -7,11 +7,11 @@ NLP_Capstone Project
 
 Please read below for the details of the contents found in this folder. The contents are organized with The Data Science Process in mind.  
 
-Problem Statement (#problem-statement)
-Data Source(#data-source)
-Data Exploration(#data-exploration)
-In-depth Analysis(#in-depth-analysis)
-Results(#results)
+- [Problem Statement](#problem-statement)
+- [Data Source](#data-source)
+- [Data Exploration](#data-exploration)
+- [In-depth Analysis](#in-depth-analysis)
+- [Results](#results)
 
 
 # Problem statement: 
@@ -19,11 +19,11 @@ Results(#results)
 Is it possible to accurately classify a verse in its respective genre? Therefore, what is the optimal machine learning method to identify a text with similar content from a given corpus? 
 
 
-Short term goal: The short term goal of this project is to accurately be able to classify a verse,  in this case from a given version of The Bible,  to its respective genre. 
+**Short term goal:** The short term goal of this project is to accurately be able to classify a verse,  in this case from a given version of The Bible,  to its respective genre. 
 
-Long term goal: The long term goal of this project is to build a recommender that takes in a verse as input and recommends a similar passage from elsewhere in the Bible. This is similar to indexing by word, except applied to an entire verse.  
+**Long term goal:** The long term goal of this project is to build a recommender that takes in a verse as input and recommends a similar passage from elsewhere in the Bible. This is similar to indexing by word, except applied to an entire verse.  
 
-Broader application: This project is developed with the larger application of Natural Language Processing (NLP) in mind. Specifically, in tasks that require word parsing. Using machine learning to identify similar context within a corpus has an impactful application. Therefore, this project aims to experiment with NLP using one of the most widely translated text in the world, The Bible. 
+**Broader application:** This project is developed with the larger application of Natural Language Processing (NLP) in mind. Specifically, in tasks that require word parsing. Using machine learning to identify similar context within a corpus has an impactful application. Therefore, this project aims to experiment with NLP using one of the most widely translated text in the world, The Bible. 
 
 
 # Data Source
