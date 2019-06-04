@@ -1,6 +1,6 @@
 # Capstone Project
 NLP_Capstone Project 
-
+<div class='tableauPlaceholder' id='viz1559676907703' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NL&#47;NLPOnTheBible&#47;NLPOnTheBible&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='NLPOnTheBible&#47;NLPOnTheBible' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;NL&#47;NLPOnTheBible&#47;NLPOnTheBible&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='useGuest' value='true' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1559676907703');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1000px';vizElement.style.height='807px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
  
 
 # Content Layout 
@@ -98,6 +98,7 @@ Metrics such as accuracy score and f1 score were used In order to evaluate the m
 - [Young’s Literal Translation](/3.5_modeling_ylt_text.ipynb)
 
 Included is the [powerpoint](/Capstone_PPT.pdf) detailing my most recent findings. 
+
 
 
 # Moving forward 
