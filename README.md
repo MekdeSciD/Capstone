@@ -1,5 +1,5 @@
 # Capstone Project
-NLP_Capstone Project 
+NLP_Capstone Project. 
 [Here,](https://public.tableau.com/views/NLPOnTheBible/NLPOnTheBible?:embed=y&:useGuest=true&:display_count=yes&:origin=viz_share_link)  you will find the Tableau Presentation. 
  
 
